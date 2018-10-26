@@ -2,7 +2,7 @@
 
 **Homebridge plugin for displaying STIB-MIVB next departure at Stop,  from opendata.stib-mivb.be**
 
-[![Node version](https://badge.fury.io/gh/swebdesign%2Fhomebridge-STIBMIVB.svg)](https://npmjs.org/package/homebridge-STIBMIVB)
+[![GITHUB version](https://badge.fury.io/gh/swebdesign%2Fhomebridge-STIBMIVB.svg)](https://npmjs.org/package/homebridge-STIBMIVB)
 
 
 # Installation
