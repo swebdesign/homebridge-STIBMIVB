@@ -2,7 +2,7 @@
 
 **Homebridge plugin for displaying STIB-MIVB next departure at Stop,  from opendata.stib-mivb.be**
 
-[![NPM version](https://badge.fury.io/js/homebridge-weather.svg)](https://npmjs.org/package/homebridge-weather) [![Dependency Status](https://david-dm.org/werthdavid/homebridge-weather.svg)](https://david-dm.org/werthdavid/homebridge-weather) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com) [![Downloads](https://img.shields.io/npm/dm/homebridge-weather.svg)](https://npmjs.org/package/homebridge-weather)
+[![Node version](https://badge.fury.io/gh/swebdesign%2Fhomebridge-STIBMIVB.svg)](https://npmjs.org/package/homebridge-STIBMIVB)
 
 
 # Installation
